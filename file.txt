@@ -1,1 +1,3 @@
 vasek
+vasek po ssh
+vasek 2 ssh
